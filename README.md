@@ -19,9 +19,11 @@ SITE: [Rocketseat](https://rocketseat.com.br)
 </div>
 
 <div align="center">
+
 ![image-card](src/img/image-card.jpg)
 
 ![image-card-1](src/img/image-card-1.jpg)
+
 </div>
 
 ## Visualizar o projecto
